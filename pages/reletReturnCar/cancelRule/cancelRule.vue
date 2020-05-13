@@ -1,0 +1,23 @@
+<template>
+	<!-- 续租与提前还车————取消规则 -->
+	<view>
+		
+	</view>
+</template>
+
+<script>
+	export default {
+		data() {
+			return {
+				
+			}
+		},
+		methods: {
+			
+		}
+	}
+</script>
+
+<style>
+
+</style>

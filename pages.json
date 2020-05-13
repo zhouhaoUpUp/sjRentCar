@@ -1,0 +1,283 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				
+			}
+		}
+	    ,{
+            "path" : "pages/orderForm/cancel/cancel",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/orderForm/finish/finish",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/orderForm/waitCar/waitCar",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/orderForm/onRoad/onRoad",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/orderForm/sendCar/sendCar",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/government/comList/comList",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/government/authenOne/authenOne",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/government/authenTwo/authenTwo",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/government/authenThree/authenThree",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/government/authenType/authenType",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/government/authenSearch/authenSearch",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/longRent/carDemand/carDemand",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/longRent/carList/carList",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/longRent/carFeedBack/carFeedBack",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/cancelFetchCar/cancelRuleOne/cancelRuleOne",
+            "style" : {}
+        }
+		,{
+		    "path" : "pages/cancelFetchCar/cancelRuleTwo/cancelRuleTwo",
+		    "style" : {}
+		}
+        ,{
+            "path" : "pages/cancelFetchCar/inhand/inhand",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/cancelFetchCar/inadvance/inadvance",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/cancelFetchCar/popwin/popwin",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/cancelFetchCar/cancelOrder/cancelOrder",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/cancelFetchCar/orderRelet/orderRelet",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/cancelFetchCar/refondDefeat/refondDefeat",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/cancelFetchCar/refondSucc/refondSucc",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/cancelFetchCar/changeTime/changeTime",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/evaluate/evaluateSucc/evaluateSucc",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/evaluate/addEvaluate/addEvaluate",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/evaluate/myEvaluate/myEvaluate",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/invoice/invoManage/invoManage",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/invoice/invoRentCar/invoRentCar",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/invoice/invoGover/invoGover",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/invoice/invoPerson/invoPerson",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/invoice/invoCompany/invoCompany",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/invoice/invoList/invoList",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/invoice/invoHistory/invoHistory",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/placeOrder/carDetail/carDetail",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/placeOrder/carDetailGorve/carDetailGorve",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/placeOrder/remakeOneself/remakeOneself",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/placeOrder/remakeThemself/remakeThemself",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/placeOrder/carStatus/carStatus",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/placeOrder/selectCom/selectCom",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/placeOrder/selectTime/selectTime",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/placeOrder/carEvaluate/carEvaluate",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/placeOrder/servicesTerms/servicesTerms",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/reletReturnCar/cancelRule/cancelRule",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/reletReturnCar/cancelorderOne/cancelorderOne",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/reletReturnCar/cancelorderTwo/cancelorderTwo",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/reletReturnCar/cancelOrderThree/cancelOrderThree",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/reletReturnCar/advanceRuturn/advanceRuturn",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/reletReturnCar/advanceRuturnApply/advanceRuturnApply",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/reletReturnCar/advanceReturnApplyN/advanceReturnApplyN",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/reletReturnCar/returnAgain/returnAgain",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/reletReturnCar/advanceRule/advanceRule",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/reletReturnCar/reletCar/reletCar",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/reletReturnCar/reletDispose/reletDispose",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/reletReturnCar/reletApply/reletApply",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/protectNum/protectDefeat/protectDefeat",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/protectNum/protectNum/protectNum",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/orderFormList/orderFormTrue/orderFormTrue",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/orderFormList/orderFormFalse/orderFormFalse",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/contact/personalCenter/personalCenter",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/contact/contactManage/contactManage",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/contact/contactWin/contactWin",
+            "style" : {}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "深驾租车",
+		"navigationBarBackgroundColor": "#272822",
+		"backgroundColor": "#F8F8F8"
+	},
+	"window":{
+		"defaultTitle" :" 深驾租车"
+	},
+	"tabBar":{
+		"selectedColor":"#A45D26",
+		"backgroundColor":"#21231E",
+		"list":[
+			{
+			"pagePath":"pages/index/index",
+			"text":"租车"
+		},{
+			"pagePath":"pages/orderFormList/orderFormTrue/orderFormTrue",
+			"text":"订单"
+		},{
+			"pagePath":"pages/contact/personalCenter/personalCenter",
+			"text":"我的"
+		}
+		]
+	}
+}
